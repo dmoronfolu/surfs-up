@@ -9,11 +9,11 @@ Results
 
 In the generated Summary Statistics for both June and December, the list includes the count, mean, standard deviation, Minimum, 25%, 50%, 75% and Maximum temperatures. For the month of June, the total count was 1700, the minimum temperature was 64 degrees and maximum temperature was 85 degrees.
 
-https://github.com/dmoronfolu/surfs-up/blob/main/Summary%20Statistics%20for%20June%20.png
+<img width="331" alt="Summary Statistics for June " src="https://user-images.githubusercontent.com/85265504/152091577-49c317d6-7c05-4ad8-96dd-e1fff860db86.png">
 
 For the December Summary statistics, the total count was 1517, the minimum temperature was 56 degrees and maximum temperature was 83 degrees. 
 
-https://github.com/dmoronfolu/surfs-up/blob/main/Summary%20Statistics%20for%20December.png
+<img width="331" alt="Summary Statistics for December" src="https://user-images.githubusercontent.com/85265504/152091608-c50c6014-dd77-4e5e-a5a0-13bdcfa0b684.png">
 
 The main differences between the temperature for both months are: 
 
